@@ -34,7 +34,7 @@ function exibir() {
   } else if ((mes == 10 && dia >= 23) || (mes == 11 && dia <= 21)) {
     signo = "Escorpião";
   } else if ((mes == 11 && dia >= 22) || (mes == 12 && dia <= 21)) {
-    signo = "Escorpião";
+    signo = "Sagitário";
   }
 
   resultado.innerHTML = `Signo: ${signo}`;

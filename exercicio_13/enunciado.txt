@@ -1,7 +1,0 @@
-Enunciado: 
-50 R$ -> 100 minutos de uso do telefone
-2 R$ por minuto usado
-
-Abstração:
-1: Fazer o programa ler o tempo que o usuário usou o telefone
-2: Fazer as condicionais de acordo com o valor passado, e fazer as tratativas para o resto do valor que exceder 100.
